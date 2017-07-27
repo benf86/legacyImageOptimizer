@@ -1,0 +1,10 @@
+{
+  "ghost": {
+    "host": "http://localhost:2368",
+    "api": "http://localhost:2368/ghost/api/v0.1",
+    "username": "benjamin@ferreira.si",
+    "password": "testnogeslo",
+    "clientId": "ghost-admin",
+    "clientSecret": "72900980d9d0"
+  }
+}
